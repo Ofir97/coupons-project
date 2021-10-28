@@ -137,32 +137,4 @@ customer id is defined as 'CASCADE' for delete, because if a customer is removed
 
 - coupon id is defined as 'RESTRICT' for update, because coupon id cannot be updated.
 coupon id is defined as 'CASCADE' for delete, because if a coupon is removed - all its purchases by customers will be removed as well.
-
--------------------------------------------------------------------------
-
-## _Changes to instructions_ 
-
-#### In CustomerFacade, method -public void purchaseCoupon(int couponId)
-
-- instead of getting Coupon object as an argument - this method can get coupon id and make a purchase
-
-#### In Coupon class, toString()
-
-- instead of returning the Category enum(with capital letters), the enum is converted to String
-with small letters except for the first letter. (Utils.convertEnumToString(Enum myEnum))
-  
-#### In Company class, toString() and Customer class, toString()
-- Utils.getCouponsAsStr(coupons) is used for a better String representation of the list of coupons.
-
-#### Log Files
-- there are 2 log files: one for documenting all exceptions that have been thrown(exception_log.txt)\
-and another for documenting all successful operations(operations_log.txt)
-
-#### In getAllCoupons(), getAllCustomers(), getAllCompanies()
-- since coupon id is defined as 'id' in DB, it was necessary to add alias to id as 'coupon_id'. 
-(so it will not be confused with company/customer id in generateCouponsFromResultSet(ResultSet result, int id) in CouponsDBDAO). 
-It was also possible to change the coupon id field in DB.
-
-#### In LoginManager - login(String email, String password, ClientType clientType)
-- in case of login fail (because of bad email or password)- instead of returning null as requested, BadLoginException is thrown to the user with a detailed and clear message. (instead of handling NullPointerException in main method and throwing this exception from main)
  
