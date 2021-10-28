@@ -1,0 +1,106 @@
+Thu Aug 26 18:50:47 IDT 2021 | company 23 updated successfully.
+
+Thu Aug 26 19:15:18 IDT 2021 | company Hilton added successfully.
+
+Thu Aug 26 19:17:26 IDT 2021 | company 23 updated successfully.
+
+Thu Aug 26 19:18:41 IDT 2021 | company 24 updated successfully.
+
+Thu Aug 26 19:18:56 IDT 2021 | company 24 updated successfully.
+
+Thu Aug 26 19:21:01 IDT 2021 | company 23 deleted successfully.
+
+Thu Aug 26 19:24:43 IDT 2021 | customer Dudu added successfully.
+
+Thu Aug 26 19:25:48 IDT 2021 | customer 18 updated successfully.
+
+Thu Aug 26 19:27:47 IDT 2021 | customer 10 deleted successfully.
+
+Thu Aug 26 19:32:57 IDT 2021 | coupon 'flight to Madrid' for company 7 added successfully.
+
+Thu Aug 26 19:35:36 IDT 2021 | coupon 20 of company 7 updated successfully.
+
+Mon Aug 30 13:41:29 IDT 2021 | coupon 'breakfast in hotels' for company 4 added successfully.
+
+Mon Aug 30 13:45:20 IDT 2021 | coupon 49 of company 4 updated successfully.
+
+Wed Sep 01 22:36:20 IDT 2021 | company comp added successfully.
+
+Wed Sep 01 22:39:16 IDT 2021 | company 25 deleted successfully.
+
+Sun Sep 05 16:13:32 IDT 2021 | coupon 49 of company 4 updated successfully.
+
+Sun Sep 05 23:21:44 IDT 2021 | coupon 49 for customer 11 purchased successfully.
+
+Sun Sep 05 23:36:15 IDT 2021 | coupon 'burger discount' for company 18 added successfully.
+
+Sun Sep 05 23:39:09 IDT 2021 | coupon 'burger discount' for company 18 added successfully.
+
+Wed Sep 08 15:35:22 IDT 2021 | customer Dudu added successfully.
+
+Wed Sep 08 15:38:06 IDT 2021 | customer 19 deleted successfully.
+
+Wed Sep 08 15:39:15 IDT 2021 | company comp added successfully.
+
+Wed Sep 08 15:44:44 IDT 2021 | company 26 updated successfully.
+
+Wed Sep 08 15:57:02 IDT 2021 | company 26 updated successfully.
+
+Wed Sep 08 15:57:40 IDT 2021 | company 26 deleted successfully.
+
+Wed Sep 08 15:58:21 IDT 2021 | customer Rafi added successfully.
+
+Wed Sep 08 15:58:51 IDT 2021 | customer 20 deleted successfully.
+
+Wed Sep 08 16:00:26 IDT 2021 | customer 18 updated successfully.
+
+Wed Sep 08 16:01:09 IDT 2021 | customer 18 updated successfully.
+
+Wed Sep 08 16:18:00 IDT 2021 | coupon 'upgrade to suite' for company 24 added successfully.
+
+Wed Sep 08 16:21:17 IDT 2021 | coupon 52 for customer 1 purchased successfully.
+
+Wed Sep 15 11:08:13 IDT 2021 | company BBB added successfully.
+
+Wed Sep 15 11:11:25 IDT 2021 | company 28 updated successfully.
+
+Wed Sep 15 11:16:45 IDT 2021 | company 28 updated successfully.
+
+Wed Sep 15 11:18:50 IDT 2021 | company 4 deleted successfully.
+
+Wed Sep 15 11:22:58 IDT 2021 | customer Sam added successfully.
+
+Wed Sep 15 11:24:54 IDT 2021 | customer 22 updated successfully.
+
+Wed Sep 15 11:26:21 IDT 2021 | customer 1 deleted successfully.
+
+Wed Sep 15 11:32:15 IDT 2021 | coupon 'chicken burger discount' for company 28 added successfully.
+
+Wed Sep 15 11:34:31 IDT 2021 | coupon 'burger discount' for company 28 added successfully.
+
+Wed Sep 15 11:34:56 IDT 2021 | coupon 'burger discount' for company 28 added successfully.
+
+Wed Sep 15 11:43:53 IDT 2021 | coupon 56 of company 28 updated successfully.
+
+Wed Sep 15 11:46:01 IDT 2021 | coupon 56 for company 28 deleted successfully.
+
+Wed Sep 15 11:47:01 IDT 2021 | coupon 'burger discount' for company 28 added successfully.
+
+Wed Sep 15 11:47:45 IDT 2021 | coupon 'double burger discount' for company 28 added successfully.
+
+Wed Sep 15 11:53:33 IDT 2021 | coupon 52 for customer 6 purchased successfully.
+
+Wed Sep 15 11:56:14 IDT 2021 | coupon 57 of company 28 updated successfully.
+
+Wed Sep 15 11:59:07 IDT 2021 | coupon 57 of company 28 updated successfully.
+
+Wed Sep 15 12:00:17 IDT 2021 | coupon 57 of company 28 updated successfully.
+
+Wed Sep 15 12:02:09 IDT 2021 | coupon 57 of company 28 updated successfully.
+
+Wed Sep 15 12:02:09 IDT 2021 | coupon 57 for customer 6 purchased successfully.
+
+Wed Sep 15 12:03:53 IDT 2021 | coupon 57 of company 28 updated successfully.
+
+Wed Sep 15 12:08:32 IDT 2021 | coupon 57 for company 28 deleted successfully.
+

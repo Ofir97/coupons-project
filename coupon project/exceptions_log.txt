@@ -1,0 +1,67 @@
+Wed Sep 15 10:26:31 IDT 2021 | Administrator Login failed: Incorrect email(admin@admin.com) or password(admin9) entered.
+
+Wed Sep 15 10:28:15 IDT 2021 | Administrator Login failed: Incorrect email(admin@admin.com) or password(admin9) entered.
+
+Wed Sep 15 11:06:29 IDT 2021 | company add failed: company name 'el-al' or email 'bbb@gmail.com' already exists.
+
+Wed Sep 15 11:07:26 IDT 2021 | company add failed: company name 'BBB' or email 'fatal@gmail.com' already exists.
+
+Wed Sep 15 11:09:30 IDT 2021 | company update failed: company id 50 does not exist.
+
+Wed Sep 15 11:10:40 IDT 2021 | company update failed: name of company 28 cannot be updated.
+
+Wed Sep 15 11:12:12 IDT 2021 | DB Error: at com.ofir.coupons.dao.CompaniesDBDAO.updateCompany(). 
+error details: Duplicate entry 'mozes@gmail.com' for key 'companies.email_UNIQUE'
+
+Wed Sep 15 11:17:16 IDT 2021 | company update failed: name of company 28 cannot be updated.
+
+Wed Sep 15 11:18:39 IDT 2021 | company delete failed: company id 100 does not exist.
+
+Wed Sep 15 11:21:00 IDT 2021 | company id 14 does not exist.
+
+Wed Sep 15 11:22:27 IDT 2021 | customer add failed: customer with email shon33@gmail.com already exists!
+
+Wed Sep 15 11:23:53 IDT 2021 | customer update failed: customer id 784 does not exist.
+
+Wed Sep 15 11:26:58 IDT 2021 | customer delete failed: customer id 71 does not exist.
+
+Wed Sep 15 11:28:36 IDT 2021 | customer id 188 does not exist.
+
+Wed Sep 15 11:29:08 IDT 2021 | Company Login failed: Incorrect email(bbb@gmail.com) or password(burgers11) entered.
+
+Wed Sep 15 11:29:40 IDT 2021 | Company Login failed: Incorrect email(bbb8@gmail.com) or password(burgers555) entered.
+
+Wed Sep 15 11:35:43 IDT 2021 | coupon add failed: coupon title 'burger discount' already exists in company 28 coupons!
+
+Wed Sep 15 11:36:28 IDT 2021 | coupon update failed: company id of coupon cannot be updated.
+
+Wed Sep 15 11:37:57 IDT 2021 | coupon update failed: coupon id 100 does not exist for company id 28.
+
+Wed Sep 15 11:38:36 IDT 2021 | coupon update failed: company id of coupon cannot be updated.
+
+Wed Sep 15 11:45:02 IDT 2021 | coupon delete failed: coupon id 289 does not exist for company id 28.
+
+Wed Sep 15 11:45:31 IDT 2021 | coupon delete failed: coupon id 51 does not exist for company id 28.
+
+Wed Sep 15 11:45:52 IDT 2021 | coupon delete failed: coupon id 52 does not exist for company id 28.
+
+Wed Sep 15 11:51:51 IDT 2021 | Customer Login failed: Incorrect email(adam11@gmail.com) or password(adam3338) entered.
+
+Wed Sep 15 11:52:34 IDT 2021 | coupon purchase failed: coupon id 1001 does not exist.
+
+Wed Sep 15 11:53:46 IDT 2021 | coupon purchase failed: customer 6 already purchased coupon 52.
+
+Wed Sep 15 11:54:40 IDT 2021 | coupon update failed: coupon id 56 does not exist for company id 28.
+
+Wed Sep 15 11:55:26 IDT 2021 | coupon update failed: coupon id 51 does not exist for company id 28.
+
+Wed Sep 15 11:56:57 IDT 2021 | coupon purchase failed: coupon 57 is sold out.
+
+Wed Sep 15 11:58:06 IDT 2021 | coupon purchase failed: customer 6 already purchased coupon 52.
+
+Wed Sep 15 11:59:07 IDT 2021 | coupon purchase failed: customer 6 already purchased coupon 52.
+
+Wed Sep 15 11:59:30 IDT 2021 | coupon purchase failed: coupon 57 has expired.
+
+Wed Sep 15 12:00:17 IDT 2021 | coupon purchase failed: coupon 57 has expired.
+
